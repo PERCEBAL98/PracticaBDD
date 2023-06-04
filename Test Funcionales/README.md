@@ -3,12 +3,10 @@ El objetivo de esta práctica es realizar una serie de test con selenium y behav
 
 ### Estructura de archivos: ###
 
-- *./*: 
-  n/Los archivos:
+- *./*: Encontramos 3 archivos creados por el gestor de paquetes *Poetry*:
   - .log
   - .lock
   - .toml
-  n/Han sido creados por el gestor de paquetes *Poetry*
 - */features*: 
 - */steps*: 
 
