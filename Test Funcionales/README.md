@@ -17,7 +17,7 @@ El objetivo de esta práctica es realizar una serie de test con selenium y behav
 
 ### Contenido de los archivos: ###
 
-#### - environment.py ####
+- **environment.py**
 Con este archivo se abre el navegador **Firefox** y se entra a la página web del supermercado **DIA** (quitando las cookies)
 
 #### fetures.feature ####
