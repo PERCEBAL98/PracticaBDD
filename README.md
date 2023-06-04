@@ -12,3 +12,4 @@ Contiene el **ejemplo paso a paso** de la URL: [BDD (Behavior-Driven Development
 ### El repositorio Test Funcionales ###
 
 Contiene la práctica basada en la práctica de los test fncionales, con los **escenarios Gerkin** y los **steps** necesarios.
+Además se encuentra un README que explica el código.
