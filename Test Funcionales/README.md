@@ -21,6 +21,12 @@ El objetivo de esta práctica es realizar una serie de test con selenium y behav
 
 Con este archivo se abre el navegador **Firefox** y se entra a la página web del supermercado **DIA** (quitando las cookies)
 
-#### fetures.feature ####
+- **fetures.feature**
 
-#### steps.py ####
+Este archivo contiene 3 escenarios:
+  - En el primer escenario se compruba si el título de la página **https://www.dia.es** es **Supermercado online | ¡Recibe tu compra hoy mismo! | Día**
+  - En el segundo escenario se comprueba si hay 5 articulos ccuando se busca la palabra ACUAREL
+  - En el tercer escenario se comprueba si se añade correcramente el producto al carrito
+
+- **steps.py**
+
