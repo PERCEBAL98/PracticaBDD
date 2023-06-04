@@ -4,11 +4,11 @@ El objetivo de esta práctica es realizar una serie de test con selenium y behav
 ### Estructura de archivos: ###
 
 - *./*: 
-  Los archivos:
+  n/Los archivos:
   - .log
   - .lock
   - .toml
-  Han sido creados por el gestor de paquetes *Poetry*
+  n/Han sido creados por el gestor de paquetes *Poetry*
 - */features*: 
 - */steps*: 
 
