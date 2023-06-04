@@ -15,6 +15,10 @@ El objetivo de esta práctica es realizar una serie de test con selenium y behav
 - */steps* Encontramos el archivo steps que contiene todos los test: 
   - .py
 
-### Contenido de los archivos ###
+### Contenido de los archivos: ###
 
-###  ###
+#### environment.py ####
+
+#### fetures.feature ####
+
+#### steps.py ####
