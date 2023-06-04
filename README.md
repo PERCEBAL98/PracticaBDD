@@ -5,9 +5,9 @@ He subido dos repositorios:
 - fizzbuzz
 - Test Funcionales
 
-#### El repoitorio fizzbuzz ###
+### El repoitorio fizzbuzz ###
 
-Contiene el **ejemplo paso a paso** de la URL: [hyperlink syntax](https://www.pmareke.com/posts/bdd-in-python/)
+Contiene el **ejemplo paso a paso** de la URL: [BDD (Behavior-Driven Development) en Python](https://www.pmareke.com/posts/bdd-in-python/)
 
 ### El repositorio Test Funcionales ###
 
